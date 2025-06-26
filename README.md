@@ -1,3 +1,4 @@
+
 This repository contains 75 detailed manual test cases for the Internshala Login and Sign-up pages. It covers a comprehensive range of test scenarios including:
 🔸UI & Layout Testing
 🔸Positive & Negative Functional Testing
